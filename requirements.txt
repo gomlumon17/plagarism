@@ -5,3 +5,5 @@ nltk
 pandas
 pymupdf
 python-docx
+PyPDF2
+docx2txt

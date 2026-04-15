@@ -1,6 +1,9 @@
 import streamlit as st
 from utils.helpers import save_uploaded_file
 from src.detector import detect_plagiarism
+import sys
+import os
+sys.path.append(os.getcwd())
 
 st.set_page_config(
     page_title="Plagiarism Detector",
