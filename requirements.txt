@@ -1,4 +1,6 @@
-streamlit
+fastapi
+python-multipart
+uvicorn
 sentence-transformers
 scikit-learn
 nltk
@@ -7,4 +9,3 @@ pymupdf
 python-docx
 PyPDF2
 docx2txt
-fastapi
